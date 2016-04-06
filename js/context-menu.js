@@ -15,7 +15,7 @@
  * Date: 2016-01-14T18:46:28.295Z
  */
 !function (e) {
-    "function" == typeof define && define.amd ? define(["jquery"], e) : e("object" == typeof exports ? require("jquery") : jQuery)
+    "function" == typeof define && define.amd ? define(["../jQuery"], e) : e("object" == typeof exports ? require("jquery") : jQuery)
 }(function (e) {
     "use strict";
     function t(e) {

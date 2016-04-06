@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c34f9ad-413a-4606-8c8b-edbbcb965b83" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/links.json" afterPath="$PROJECT_DIR$/links.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQuery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/links.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styling.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/visualization.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Blob.js" afterPath="$PROJECT_DIR$/js/Blob.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FileSaver.js" afterPath="$PROJECT_DIR$/js/FileSaver.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canvas-toBlob.js" afterPath="$PROJECT_DIR$/js/canvas-toBlob.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canvg.js" afterPath="$PROJECT_DIR$/js/canvg.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/code.js" afterPath="$PROJECT_DIR$/js/code.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/color-parser.js" afterPath="$PROJECT_DIR$/js/color-parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/context-menu.js" afterPath="$PROJECT_DIR$/js/context-menu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/d3.js" afterPath="$PROJECT_DIR$/js/d3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data.js" afterPath="$PROJECT_DIR$/js/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/force-layout.html" afterPath="$PROJECT_DIR$/force-layout.html" />
     </list>
     <ignored path="GHOST.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="force-layout.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="force-layout.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/force-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.490196">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.12353923">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#dialog#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -35,54 +50,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="links.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/links.json">
+      <file leaf-file-name="Blob.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Blob.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28795812">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#459#9219#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styling.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styling.css">
+      <file leaf-file-name="canvas-toBlob.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/canvas-toBlob.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#284#401#0" expanded="false" />
+                <element signature="e#524#5103#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="context-menu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/context-menu.js">
+        <entry file="file://$PROJECT_DIR$/js/context-menu.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="659" column="13" selection-start-line="659" selection-start-column="13" selection-end-line="659" selection-end-column="13" />
               <folding>
-                <marker date="1459973163000" expanded="true" signature="32610:32721" placeholder="..." />
+                <marker date="1459973763000" expanded="true" signature="32613:32724" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="d3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d3.js">
+        <entry file="file://$PROJECT_DIR$/js/d3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
               <folding>
                 <marker date="1459973126000" expanded="true" signature="351865:351878" placeholder="{...}" />
-                <marker date="1459973126000" expanded="true" signature="351865:351887" placeholder="{...}" />
-                <marker date="1459973126000" expanded="true" signature="351865:389977" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileSaver.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/FileSaver.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="color-parser.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/color-parser.js">
+        <entry file="file://$PROJECT_DIR$/js/color-parser.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
@@ -91,34 +133,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-              <folding>
-                <element signature="e#278#437#0" expanded="false" />
-                <element signature="e#483#832#0" expanded="false" />
-                <element signature="e#878#906#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="canvg.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canvg.js">
+        <entry file="file://$PROJECT_DIR$/js/canvg.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
@@ -130,12 +146,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visualization.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visualization.js">
+      <file leaf-file-name="code.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/code.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2166" column="3" selection-start-line="2166" selection-start-column="3" selection-end-line="2166" selection-end-column="3" />
-              <folding />
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -169,8 +187,8 @@
         <option value="$PROJECT_DIR$/context-menu.js" />
         <option value="$PROJECT_DIR$/color-parser.js" />
         <option value="$PROJECT_DIR$/styling.css" />
-        <option value="$PROJECT_DIR$/force-layout.html" />
         <option value="$PROJECT_DIR$/links.json" />
+        <option value="$PROJECT_DIR$/force-layout.html" />
       </list>
     </option>
   </component>
@@ -241,6 +259,11 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -300,7 +323,7 @@
     <frame x="123" y="23" width="1675" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.047762997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.213422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -346,15 +369,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data.js">
+    <entry file="file://$PROJECT_DIR$/js/Blob.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#459#9219#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canvas-toBlob.js">
+    <entry file="file://$PROJECT_DIR$/js/canvas-toBlob.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -366,80 +392,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blob.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#459#9219#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FileSaver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
-          <folding>
-            <marker date="1459973126000" expanded="true" signature="351865:351878" placeholder="{...}" />
-            <marker date="1459973126000" expanded="true" signature="351865:351887" placeholder="{...}" />
-            <marker date="1459973126000" expanded="true" signature="351865:389977" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="e#278#437#0" expanded="false" />
-            <element signature="e#483#832#0" expanded="false" />
-            <element signature="e#878#906#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visualization.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2166" column="3" selection-start-line="2166" selection-start-column="3" selection-end-line="2166" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvg.js">
+    <entry file="file://$PROJECT_DIR$/js/canvg.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
@@ -450,17 +403,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/context-menu.js">
+    <entry file="file://$PROJECT_DIR$/js/code.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="659" column="13" selection-start-line="659" selection-start-column="13" selection-end-line="659" selection-end-column="13" />
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
-            <marker date="1459973163000" expanded="true" signature="32610:32721" placeholder="..." />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/color-parser.js">
+    <entry file="file://$PROJECT_DIR$/js/color-parser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
@@ -468,29 +421,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styling.css">
+    <entry file="file://$PROJECT_DIR$/js/context-menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="659" column="13" selection-start-line="659" selection-start-column="13" selection-end-line="659" selection-end-column="13" />
+          <folding>
+            <marker date="1459973763000" expanded="true" signature="32613:32724" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+          <folding>
+            <marker date="1459973126000" expanded="true" signature="351865:351878" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/FileSaver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/force-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.490196">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.12353923">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#dialog#0;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/links.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28795812">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
