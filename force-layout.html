@@ -14118,6 +14118,7 @@ var dvh_ghost = (function(dvh) {
     }
 
     function reset_display() {
+      $('#thresholdNumber').val("0.037");
       graph.reset();
       graph.threshold_links();
     }
@@ -14150,13 +14151,13 @@ var dvh_ghost = (function(dvh) {
           shared: {
             name: 'Share Sequence',
             callback: function(key, options) {
-              $('#thresholdNumber').val("0.037");
+              reset_display()
               graph.threshold_links();
           }},
           strain: {
             name: 'Strain',
             callback: function(key, options) {
-              $('#thresholdNumber').val("0.037");
+              reset_display()
               graph.threshold_links();
           }}
         }});
